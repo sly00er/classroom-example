@@ -1,0 +1,1 @@
+this is a test for puppet exercice 3.1
